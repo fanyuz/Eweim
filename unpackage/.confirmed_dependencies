@@ -1,0 +1,10 @@
+{
+  "index.html": {
+    "resources": [
+      "QRCode_files/qrcode.min.js",
+      "QRCode_files/bootstrap.min.css",
+      "QRCode_files/modernizr-2.8.3.js",
+      "QRCode_files/bootstrap.min.js"
+    ]
+  }
+}
